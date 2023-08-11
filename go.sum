@@ -1,0 +1,4 @@
+github.com/antandros/go-pkgparser v1.0.2 h1:iIQIIIX/P/SIEJ67rjusTfRAWRebdPJr225yXS/IvLc=
+github.com/antandros/go-pkgparser v1.0.2/go.mod h1:qmeviWaa3hgGZBmXBN1IWMMmuP5ZCok/GwpfErvNCMM=
+github.com/mattn/go-sqlite3 v1.14.17 h1:mCRHCLDUBXgpKAqIKsaAaAsrAlbkeomtRFKXh2L6YIM=
+github.com/mattn/go-sqlite3 v1.14.17/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
