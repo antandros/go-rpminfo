@@ -34,7 +34,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"gitlab.com/antandros/go-rpminfo"
+	"github.com/antandros/go-rpminfo"
 )
 
 func main() {
