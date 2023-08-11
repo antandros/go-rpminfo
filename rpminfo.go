@@ -6,6 +6,7 @@ import (
 
 	"github.com/antandros/go-pkgparser"
 	"github.com/antandros/go-pkgparser/model"
+	_ "github.com/glebarez/go-sqlite"
 	rpmdb "github.com/knqyf263/go-rpmdb/pkg"
 )
 
