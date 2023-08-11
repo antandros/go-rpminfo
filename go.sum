@@ -1,4 +1,8 @@
 github.com/antandros/go-pkgparser v1.0.2 h1:iIQIIIX/P/SIEJ67rjusTfRAWRebdPJr225yXS/IvLc=
 github.com/antandros/go-pkgparser v1.0.2/go.mod h1:qmeviWaa3hgGZBmXBN1IWMMmuP5ZCok/GwpfErvNCMM=
+github.com/knqyf263/go-rpmdb v0.0.0-20230723082926-067d98befa60 h1:kTBDRI2BJvNYFjMcOH5zskWS5QYDqUDE0owFpb38Vng=
+github.com/knqyf263/go-rpmdb v0.0.0-20230723082926-067d98befa60/go.mod h1:9LQcoMCMQ9vrF7HcDtXfvqGO4+ddxFQ8+YF/0CVGDww=
 github.com/mattn/go-sqlite3 v1.14.17 h1:mCRHCLDUBXgpKAqIKsaAaAsrAlbkeomtRFKXh2L6YIM=
 github.com/mattn/go-sqlite3 v1.14.17/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
+golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 h1:go1bK/D/BFZV2I8cIQd1NKEZ+0owSTG1fDTci4IqFcE=
+golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
