@@ -3,7 +3,8 @@
 
 ## Overview
 
-The `rpminfo` package is a Go library designed to list software installed on Debian distributions using `rpm`. The package provides functionality to parse package details and represent them in structured Go data types.
+The `go-rpminfo` package is a Go library designed to list software installed on GNU/Linux distros as using rpm
+The package provides functionality to parse package details and represent them in structured Go data types.
 
 ## Data Structures
 
